@@ -2,6 +2,7 @@
 #in the script window, you can either select edit > run all
 #to run this entire script,
 #or you can step through it by highlight each bit of code between comments and hitting ctrl+R
+#this whole script is based on Ben Marwick's Day of Archaeology work https://github.com/benmarwick/dayofarchaeology
 Sys.setenv(NOAWT=TRUE)
 
 #setup the workspace
