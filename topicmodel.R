@@ -1,4 +1,4 @@
-#I use R studio. Open R studio, click file, open script, and select this script.
+#Open R, click file, open script, and select this script.
 #in the script window, you can either select edit > run all
 #to run this entire script,
 #or you can step through it by highlight each bit of code between comments and hitting ctrl+R
@@ -107,6 +107,7 @@ plot(g, layout=layout1, edge.curved = TRUE, vertex.size = 1, vertex.color= "grey
 
 
 # interactive in a web browser
+# if you have a particularly large dataset, you might want to skip this section, and just run the Gephi part.
 # if you don't have devtools, install it by removing the hash below:
 # install.packages("devtools")
 
