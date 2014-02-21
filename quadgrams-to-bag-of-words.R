@@ -1,3 +1,4 @@
+    #by Ben Marwick; posted originally at http://digitalhumanities.org/answers/topic/topic-modeling-mallet-with-jstor-data-for-research
     # set working directory, ie. location of JSTOR DfR CSV
     # files on the computer
     setwd("C:\\mallet-2.0.7\\jamt\\quadgrams\\")
